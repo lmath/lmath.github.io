@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Leigh-Anne Mathieson
 tagline:          ''
-description:      'Software developer in London. Ex-researcher and now data-curious.'
+description:      'Current software developer, former computational complexity researcher. Data-curious.'
 url:              http://lmath.github.io
 baseurl:          /
 
