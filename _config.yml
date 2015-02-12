@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Leigh-Anne Mathieson
+tagline:          ''
+description:      'Software developer in London. Ex-researcher and now data-curious.'
+url:              http://lmath.github.io
+baseurl:          /
+
+author:
+  name:           'Leigh-Anne Mathieson'
+  url:            lmath.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
